@@ -1,2 +1,2 @@
 # Undetected-Backdoor
-* C++ Fully undetected backdoor by using a python embeded code
+* C++ Fully undetected reverse shell by using a python embeded code
